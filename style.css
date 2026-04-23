@@ -4,7 +4,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
 }
 
 body{
@@ -207,6 +207,7 @@ body::-webkit-scrollbar {
 .about-me {
     position: relative;
     justify-content: center;
+    text-align: justify;
     align-items: center;
     margin-bottom: 8rem;
 }
